@@ -1,3 +1,6 @@
 # zach-my-responsive-portfolio
-
-Get one page working first with the basics, then copy it over.
+Changes Made
+-Added a Nav Bar
+-Changed the color of the Nav Bar
+-Right-aligned the navbar
+-Add functionality to navbar
