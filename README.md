@@ -8,3 +8,6 @@ Changes Made
 -Linked CSS File
 -Changed the background color of the navbar
 -Added a Contact Card Container
+-Changed the Navbar to reflect which page the user is on
+-Added a footer
+-
