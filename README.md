@@ -13,3 +13,6 @@ Changes Made
 -Changed the background of my name
 -Changed the background image
 -Changed the font color to white
+-Added a border to the footer
+-Added margin to the contact card
+-Added padding to the footer
