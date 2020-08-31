@@ -16,3 +16,4 @@ Changes Made
 -Added a border to the footer
 -Added margin to the contact card
 -Added padding to the footer
+-Increased the size of the footer's border and changed the color
