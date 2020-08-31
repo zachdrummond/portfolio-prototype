@@ -2,9 +2,17 @@ body {
     background-image: url(./ignasi_pattern_s.png);
 }
 
+.serif {
+    font-family: serif;
+}
+
 .navbar-brand {
     background-color:teal!important;
     color: white!important;
+}
+
+#Contact {
+    color: teal!important;
 }
 
 .border-top {

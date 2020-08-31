@@ -17,3 +17,5 @@ Changes Made
 -Added margin to the contact card
 -Added padding to the footer
 -Increased the size of the footer's border and changed the color
+-Changed Contact's color to teal.
+-Changed 2 fonts to serif and made them bold.
