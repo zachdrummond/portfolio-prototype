@@ -15,14 +15,19 @@ body {
     color: teal!important;
 }
 
-.border-top {
-    border-width: 10px!important;
-    border-color: teal!important;
-}
-
 #aboutMeImg {
     float:left!important;
     margin-right: 20px!important;
     margin-bottom: 20px!important;
     max-width:40%!important;
+}
+
+footer {
+    margin: 0%;
+    padding-top: 20%;
+}
+
+.border-top {
+    border-width: 10px!important;
+    border-color: teal!important;
 }
