@@ -1,20 +1,25 @@
+/* A body tag selector that adds the background image to each page */
 body {
     background-image: url(./ignasi_pattern_s.png);
 }
 
+/* A class selector that changes the font to serif */
 .serif {
     font-family: serif;
 }
 
+/* A class selector that changes the Navigation Bar's background and font color */
 .navbar-brand {
     background-color:teal!important;
     color: white!important;
 }
 
+/* An id selector that changes the color of the header in the card */
 #Header {
     color: teal!important;
 }
 
+/* An id that allows the text to wrap around the image on the About Me page */
 #aboutMeImg {
     float:left!important;
     margin-right: 20px!important;
@@ -22,11 +27,12 @@ body {
     max-width:40%!important;
 }
 
+/* A tag selector that sets the footer at the bottom of the page */
 footer {
-    margin: 0%;
     padding-top: 20%;
 }
 
+/* A class selector that changes the border top of the footer */
 .border-top {
     border-width: 10px!important;
     border-color: teal!important;
