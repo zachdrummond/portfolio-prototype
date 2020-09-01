@@ -2,6 +2,10 @@ body {
     background-image: url(./ignasi_pattern_s.png);
 }
 
+main {
+    min-height: calc(100vh- 78px- 56px);
+}
+
 .serif {
     font-family: serif;
 }
@@ -18,7 +22,6 @@ body {
 .border-top {
     border-width: 10px!important;
     border-color: teal!important;
-    margin-top: 10px;
 }
 
 #aboutMeImg {
