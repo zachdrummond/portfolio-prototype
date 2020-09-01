@@ -18,4 +18,11 @@ body {
 .border-top {
     border-width: 10px!important;
     border-color: teal!important;
+    margin-top: 10px;
+}
+
+#aboutMeImg {
+    float:left!important;
+    margin-right: 20px;
+    margin-bottom: 20px;
 }

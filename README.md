@@ -25,4 +25,6 @@ Changes Made
 -Added placeholder pictures
 -Added margins to pictures
 -Changed About Header
--Added picture to About page
+-Added image to About page
+-Added paragraph to About page
+-Added float and margin to the image in About page
