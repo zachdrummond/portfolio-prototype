@@ -24,3 +24,4 @@ Changes Made
 -Changed Portfolio Header
 -Added placeholder pictures
 -Added margins to pictures
+-Changed About Header
