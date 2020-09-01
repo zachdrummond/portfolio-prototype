@@ -23,3 +23,4 @@ Changes Made
 -Right-aligned NavBar button when opened
 -Changed Portfolio Header
 -Added placeholder pictures
+-Added margins to pictures
