@@ -25,3 +25,4 @@ Changes Made
 -Added placeholder pictures
 -Added margins to pictures
 -Changed About Header
+-Added picture to About page
