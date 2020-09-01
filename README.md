@@ -21,3 +21,5 @@ Changes Made
 -Changed 2 fonts to serif and made them bold.
 -Added JavaScript links
 -Right-aligned NavBar button when opened
+-Changed Portfolio Header
+-Added placeholder pictures
