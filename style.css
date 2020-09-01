@@ -2,10 +2,6 @@ body {
     background-image: url(./ignasi_pattern_s.png);
 }
 
-main {
-    min-height: calc(100vh- 78px- 56px);
-}
-
 .serif {
     font-family: serif;
 }
@@ -26,6 +22,7 @@ main {
 
 #aboutMeImg {
     float:left!important;
-    margin-right: 20px;
-    margin-bottom: 20px;
+    margin-right: 20px!important;
+    margin-bottom: 20px!important;
+    max-width:40%!important;
 }
