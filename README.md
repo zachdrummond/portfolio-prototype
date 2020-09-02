@@ -1,9 +1,6 @@
 # My Responsive Portfolio
 
 ## Table of Contents
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
 * [Description](#Description)
 * [Design Elements](#Design-Elements)
 * [Pages Preview](#Pages-Preview)
