@@ -27,9 +27,9 @@ body {
     max-width:40%!important;
 }
 
-/* A tag selector that sets the footer at the bottom of the page */
-footer {
-    padding-top: 20%;
+/* A tag selector that adds space between the main element and the footer */
+main {
+    margin-bottom: 10%;
 }
 
 /* A class selector that changes the border top of the footer */
