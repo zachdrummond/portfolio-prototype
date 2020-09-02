@@ -1,5 +1,15 @@
 # My Responsive Portfolio
 
+## Table of Contents
+
+If your README is very long, add a table of contents to make it easy for users to find what they need.
+
+* [Description](#Description)
+* [Design Elements](#Design-Elements)
+* [Pages Preview](#Pages-Preview)
+* [Links](#Links)
+* [Credits](#Credits)
+
 ## Description
 This is a prototype of my responsive portfolio. I designed this website in such a way that it would render well on a variety of devices and screen sizes. I hope to be able to use this website one day to showcase all of my web applications, provide a basic profile of me, and give others a place to contact me.
 
@@ -38,19 +48,21 @@ I tried to build this website by implementing only Bootstrap classes as much as 
 * Border
 * Float
 * Padding & Margin
+* Font
+* Colors
 * Comments
 
-## Pages
+## Pages Preview
 ### *Contact*
-![Screenshot](assets/images/ScreenShot.png)
+![Screenshot](ContactScreenshot.png)
 
 ### *Portfolio*
-![Screenshot](assets/images/ScreenShot.png)
+![Screenshot](PortfolioScreenshot.png)
 
 ### *About*
-![Screenshot](assets/images/ScreenShot.png)
+![Screenshot](AboutScreenshot.png)
 
-## Links to the Website & GitHub
+## Links
 * Website: https://zachdrummond.github.io/zach-my-responsive-portfolio/contact.html
 * GitHub Repository: https://github.com/zachdrummond/zach-my-responsive-portfolio
 
