@@ -1,4 +1,4 @@
-# My Responsive Portfolio
+# My Responsive Portfolio - Prototype
 
 ## Table of Contents
 * [Description](#Description)
@@ -60,8 +60,8 @@ I tried to build this website by implementing only Bootstrap classes as much as 
 ![Screenshot](images/AboutScreenshot.png)
 
 ## Links
-* Website: https://zachdrummond.github.io/zach-my-responsive-portfolio/contact.html
-* GitHub Repository: https://github.com/zachdrummond/zach-my-responsive-portfolio
+* Website: https://zachdrummond.github.io/portfolio-prototype/
+* GitHub Repository: https://github.com/zachdrummond/portfolio-prototype
 
 ## Credits
 * Bootstrap: https://getbootstrap.com/
