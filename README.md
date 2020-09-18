@@ -51,13 +51,13 @@ I tried to build this website by implementing only Bootstrap classes as much as 
 
 ## Pages Preview
 ### *Contact*
-![Screenshot](ContactScreenshot.png)
+![Screenshot](images/ContactScreenshot.png)
 
 ### *Portfolio*
-![Screenshot](PortfolioScreenshot.png)
+![Screenshot](images/PortfolioScreenshot.png)
 
 ### *About*
-![Screenshot](AboutScreenshot.png)
+![Screenshot](images/AboutScreenshot.png)
 
 ## Links
 * Website: https://zachdrummond.github.io/zach-my-responsive-portfolio/contact.html

@@ -1,6 +1,6 @@
 /* A body tag selector that adds the background image to each page */
 body {
-  background-image: url(./ignasi_pattern_s.png);
+  background-image: url(./images/ignasi_pattern_s.png);
 }
 
 /* A class selector that changes the font to serif */
