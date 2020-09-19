@@ -2,15 +2,17 @@
 
 ## Table of Contents
 * [Description](#Description)
+* [Links](#Links)
 * [Design Elements](#Design-Elements)
 * [Pages Preview](#Pages-Preview)
-* [Links](#Links)
 * [Credits](#Credits)
 
 ## Description
 This is a prototype of my responsive portfolio. I designed this website in such a way that it would render well on a variety of devices and screen sizes. I hope to be able to use this website one day to showcase all of my web applications, provide a basic profile of me, and give others a place to contact me.
 
-I tried to build this website by implementing only Bootstrap classes as much as I could.
+## Links
+* Website: https://zachdrummond.github.io/portfolio-prototype/
+* GitHub Repository: https://github.com/zachdrummond/portfolio-prototype
 
 ## Design Elements
 ### *Bootstrap*
@@ -58,10 +60,6 @@ I tried to build this website by implementing only Bootstrap classes as much as 
 
 ### *About*
 ![Screenshot](images/AboutScreenshot.png)
-
-## Links
-* Website: https://zachdrummond.github.io/portfolio-prototype/
-* GitHub Repository: https://github.com/zachdrummond/portfolio-prototype
 
 ## Credits
 * Bootstrap: https://getbootstrap.com/
