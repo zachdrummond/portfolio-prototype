@@ -15,41 +15,9 @@ This is a prototype of my responsive portfolio. I designed this website in such 
 * GitHub Repository: https://github.com/zachdrummond/portfolio-prototype
 
 ## Design Elements
-### *Bootstrap*
-* Grid System
-* Functional Navigation Bar with Button
-* Responsive Layout
-* Contact Card
-* Forms
-* Responsive Images
-* Footer
-* Borders
-* Sizing
-* Spacing
-* Colors
-* Text Alignment & Wrapping
-
-### *HTML*
-* Logical Structure
-* Sequential Order
-* Consistency across each HTML File
-* Bootstrap CSS Link
-* Bootstrap JavaScript Link
-* CSS File Link
-* Concise Descriptive Title
-* Semantic Elements
-* ids, Classes, and Elements
-* Accessible Attributes
-* Comments
-
-### *CSS*
-* Background Image
-* Border
-* Float
-* Padding & Margin
-* Font
-* Colors
-* Comments
+* HTML
+* CSS
+* Bootstrap
 
 ## Pages Preview
 ### *Contact*

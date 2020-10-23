@@ -3,6 +3,10 @@ body {
   background-image: url(./images/ignasi_pattern_s.png);
 }
 
+* {
+
+}
+
 /* A class selector that changes the font to serif */
 .serif {
   font-family: serif !important;
